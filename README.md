@@ -2,7 +2,7 @@
 
 My real name is Jaden, but you can call me [Rocket](https://rocketprogrammer.me).
 
-I self-taught myself programming by modifying the source code for a Disney game called Disney's Toontown Online.
+I self-taught myself programming by modifying the source code for a Disney game called Toontown Online.
 
 Nowadays, I have been working on [Sunrise Games](https://sunrise.games), a project aimed at writing servers for various defunct games.
 
